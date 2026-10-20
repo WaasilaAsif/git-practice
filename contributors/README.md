@@ -12,4 +12,4 @@ Everyone who's done their first PR. To add yourself, create `contributors/<your-
 
 One file per person = no merge conflicts. Make the file name your GitHub username so it's unique.
 
-I added my file as a template to let you guys know how to operate
+>I added my file as a template to let you guys know how to operate
