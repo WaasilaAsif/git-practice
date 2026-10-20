@@ -8,6 +8,7 @@ Everyone who's done their first PR. To add yourself, create `contributors/<your-
 - GitHub: [@your-username](https://github.com/your-username)
 - Domain: AI/ML · Web Dev · Cybersecurity
 - First thing I want to build:
+- My hobbies include:
 ```
 
 One file per person = no merge conflicts. Make the file name your GitHub username so it's unique.
