@@ -56,9 +56,39 @@ git push
 
 Merge conflicts look terrifying until you've fixed one. Now you have.
 
+## 🐛 Open an issue (the other half of the workflow)
+
+A **pull request** says "here's a change." An **issue** says "here's something that should change" — a bug, a task, or an idea — *before* any code exists. In real projects you open an issue first, discuss it, then someone sends a PR that fixes it.
+
+Practice it here:
+
+1. Go to the **Issues** tab → **New issue**.
+2. Give it a clear title: `Typo in README` or `Idea: add a Python example`.
+3. In the description, explain what and where. The clearer the issue, the faster it gets fixed.
+4. Submit it.
+
+**Level up — link an issue to a PR.** When you open a PR that fixes an issue, put `Closes #12` (the issue number) in the PR description. When the PR merges, GitHub **closes the issue automatically**. That link between "problem" and "fix" is the backbone of how every real project is run.
+
+> Good first issues get labeled `good first issue` so newcomers can find them. That's how you'll contribute to real projects later.
+
+
+
 ## This is a sandbox
 
 It gets reset every semester. Your real "first contribution that counts" is adding yourself to the [Learn Your Own X](https://github.com/WaasilaAsif/Learn-your-own-x) repo after you finish a module.
+
+---
+
+## Learn more about Git
+
+- [**W3Schools Git tutorial**](https://www.w3schools.com/git/) — clean, beginner-friendly, example-driven. Great first stop. ⭐
+- [**Learn Git Branching**](https://learngitbranching.js.org/) — interactive, visual. You *see* branches move as you type commands. The fastest way to "get" branching.
+- [**Pro Git**](https://git-scm.com/book/en/v2) — the free, complete book. Chapters 2–3 cover everything in this workshop.
+- [**GitHub Git cheat sheet**](https://education.github.com/git-cheat-sheet-education.pdf) — one-page PDF, worth printing.
+- [**Oh My Git!**](https://ohmygit.org/) — an actual game that teaches Git. Fun when the commands feel abstract.
+- [**MIT Missing Semester — Version Control**](https://missing.csail.mit.edu/2020/version-control/) — goes deeper into how Git really works underneath.
+
+---
 
 ## Contributors wall
 
