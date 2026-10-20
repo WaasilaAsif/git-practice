@@ -62,6 +62,6 @@ It gets reset every semester. Your real "first contribution that counts" is addi
 
 ## Contributors wall
 
-Everyone who's merged a PR here. Your face shows up automatically once your PR lands. 👇
+Everyone who's merged a PR here. Your face shows up automatically once your PR lands. 
 
 [![Contributors](https://contrib.rocks/image?repo=WaasilaAsif/git-practice)](https://github.com/WaasilaAsif/git-practice/graphs/contributors)
